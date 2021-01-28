@@ -19,3 +19,4 @@ If you have a Bachelor of Science degree in chemistry, biology, or another "life
 The MB(ASCP) certification enables you to work at the same level as a Medical Laboratory Scientist (MLS) or Medical Technologist (MT) ASCP certification, but only within a molecular biology department. Not all laboratories have a separate molecular biology department. Some laboratories may have a separate virology & other infectious disease molecular biology department, and such departments may require MB(ASCP) certification rather than MLS(ASCP) certification.
 ##### How to Get Certified
 If you have a Bachelor of Science degree in chemistry, biology, or another "life science," and you already have any of the other main technologist-level certifications such as the MLS, M, C, H, or BB certifications, you are eligible to take the MB(ASCP) certification exam. 
+{{FOOTER: Last updated 27 January 2021}}
