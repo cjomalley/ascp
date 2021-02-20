@@ -48,8 +48,14 @@ Other stains - calcofluor white, Kinyoun, Ziehl Nieson, auramine rhodamine, camp
 IgA, IgM, IgG – when are each present
 
 ## Molecular Diagnostics
+Melt curve analysis
+What are the different types of sequencing and how do they work
+What are the basic steps of PCR and in what order
 
 ## Virology
+How do we test for and detect Hep C
+Different common viruses and what they cause
+Herpesviruses - not just HSV 1 and 2 but all of them
 
 ## Parasitology
 Be able to identify photos of some common organisms - pinworm, Trichuris trichiura, etc
@@ -70,6 +76,7 @@ IMViC for E. coli
 Differentiating Klebsiella species 
 Differentiating Proteus species
 Strep charts, Staph charts, GNDC chart
+Chromobacterium violaceum vs other
 ### Biochemical Testing
 Indole, oxidase, pyr, tube tests, bile solubility, catalase, coagulase
 CAMP and reverse CAMP test – what organisms can they be used to ID, how do they work
@@ -83,4 +90,5 @@ Pseudomonas aeruginosa - smells like grapes or corn tortillas
 
 ## Organisms of Concern
 How to differentiate benign Bacillus vs non benign
+Name and identify the six organisms of concern (see chart on wall)
 
