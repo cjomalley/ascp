@@ -24,6 +24,7 @@ Allowable formaldehyde
 MSDS – what information can be found on it, what components MUST it have
 
 ## Laboratory Management
+Names of regulatory organisations and regulations and what they are for - JCAHO (Joint Commision), CAP, CLIA, etc
 
 ## Laboratory Equipment & Supplies
 Name all the parts of a microscope
@@ -39,6 +40,10 @@ Westgard rules
 What is in each media type, what does it differentiate and how
 Selective, differential, supportive 
 
+## Stains
+How does Gram stain work? What reagents? Steps?
+Other stains - calcofluor white, Kinyoun, Ziehl Nieson, auramine rhodamine, campy
+
 ## Infection-Related Immunology
 IgA, IgM, IgG – when are each present
 
@@ -47,6 +52,8 @@ IgA, IgM, IgG – when are each present
 ## Virology
 
 ## Parasitology
+Be able to identify photos of some common organisms - pinworm, Trichuris trichiura, etc
+Differentiate worms - mouth parts, hooks, nuclei, sheaths
 
 ## Mycology
 Sporothrix schenkii – what disease does it cause (rose grower, gardener), how does it get in (puncture), what is shape (cigar)
@@ -57,16 +64,20 @@ Aspergillus species differentiation
 What is used for decontamination – NAC-PAC
 
 ## Bacteriology
-Coryne characteristic appearance – what is “coryneform” and all the aliases (palisades, outdated “Chinese letters”)
-CAMP and reverse CAMP test – what organisms can they be used to ID, how do they work
-What is bile esculin
 Bacillus cereus gram & colony morphology
-Cardiobacterium hominis star shape
 What is IMViC
 IMViC for E. coli
 Differentiating Klebsiella species 
 Differentiating Proteus species
-### Common organism smells
+Strep charts, Staph charts, GNDC chart
+### Biochemical Testing
+Indole, oxidase, pyr, tube tests, bile solubility, catalase, coagulase
+CAMP and reverse CAMP test – what organisms can they be used to ID, how do they work
+What is bile esculin
+### Distinctive Gram Stain Appearances
+Cardiobacterium hominis star shape
+Coryne characteristic appearance – what is “coryneform” and all the aliases (palisades, outdated “Chinese letters”)
+### Common Organism Smells
 Eikenella corrodens - smells like bleach, pits the agar
 Pseudomonas aeruginosa - smells like grapes or corn tortillas
 
