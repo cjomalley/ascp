@@ -1,6 +1,13 @@
 # M(ASCP) Study Guide  
 Last updated 02/20/2021
 
+## Resource Recommendations  
+Wordsology micro charts & comments 
+LabCE - you can generate practice tests with just microbiology topics or just micro & lab operations
+Diagnostic Medical Parasitology by Garcia
+Polanski flash cards
+Textbook of Diagnostic Microbiology by Mahon and Lehman
+
 ## Laboratory Safety 
 Fire extinguishers – what are the classes and what are they used for? How do each of the types work/what do they contain? What is PASS? What is RACE?
 What kinds of equipment needs to be on orange (generator-protected) outlets
@@ -59,9 +66,9 @@ What is IMViC
 IMViC for E. coli
 Differentiating Klebsiella species 
 Differentiating Proteus species
-Common organism smells
-
-
+### Common organism smells
+Eikenella corrodens - smells like bleach, pits the agar
+Pseudomonas aeruginosa - smells like grapes or corn tortillas
 
 ## Organisms of Concern
 How to differentiate benign Bacillus vs non benign
