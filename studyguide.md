@@ -1,5 +1,6 @@
 # M(ASCP) Study Guide  
 I have additional resources that can't easily be put online. See me in person with a USB drive or give me your email address to get these.  
+The official ASCP outline for general topics on the test is [here](https://www.ascp.org/content/docs/default-source/boc-pdfs/boc-us-guidelines/m_im_sm_ism_content_guideline.pdf?sfvrsn=12) and you should feel at least somewhat comfortable with the basics of all the areas mentioned in that outline. However, in my experience, the percentages listed for how heavily each topic is covered were not very predictive of what I saw on the test. The adaptive testing seems to work out such that you will have few questions in areas you're strong on and many questions in areas where your knowledge is weak.  
 Last updated 02/20/2021  
 
 ## Resource Recommendations  
@@ -36,6 +37,8 @@ Tube types! What do they contain, what are the colors, what order should they be
 
 ## Laboratory Calculations
 Westgard rules - see Wikipedia for an explanation of this  
+Dilutions  
+False positive and false negative rate calculations  
 
 ## Media & Agar
 What is in each media type, what does it differentiate and how  
